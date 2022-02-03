@@ -8,3 +8,4 @@
 
 #### Funcionamento na prática:
 
+![Animação](https://user-images.githubusercontent.com/98659450/152441807-e4f30131-dcd9-4e5b-817d-8f8a3ac42c78.gif)
