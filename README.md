@@ -1,2 +1,2 @@
-# calculadora-imc
+# Calculadora-IMC
  Pequeno projeto para calcular o Índice de Massa Corporal
