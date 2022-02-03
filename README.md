@@ -8,4 +8,3 @@
 
 #### Funcionamento na prática:
 
-<img alt='Readme' title='Calculadora-IMC' src='/calculadora-imc/Animação.gif'>
